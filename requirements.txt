@@ -2,3 +2,6 @@ Flask
 numpy
 Requests
 gunicorn
+sklearn
+requests 
+xgboost
